@@ -1,0 +1,17 @@
+/vendor/
+/node_modules/
+.env
+*.log
+*.sql
+uploads/
+images/products/
+Thumbs.db
+.DS_Store
+*.enc
+*.download
+/index1_files/
+/index1.html
+title_files/
+.idea/
+.vscode/
+.htaccess
